@@ -3926,3 +3926,7 @@ input, select, textarea {
 		ul {
 			list-style-type: none;
 		}
+
+		.below {
+			text-align: center;
+		}
