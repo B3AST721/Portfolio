@@ -3914,3 +3914,15 @@ input, select, textarea {
 			height: 100px;
 			object-fit: cover;
 		}		
+
+		.skill {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			flex-direction: column;
+			margin-bottom: 35px;
+		}
+
+		ul {
+			list-style-type: none;
+		}
