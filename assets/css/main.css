@@ -3930,3 +3930,7 @@ input, select, textarea {
 		.below {
 			text-align: center;
 		}
+
+		a {
+			cursor: pointer;
+		}
